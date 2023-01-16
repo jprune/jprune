@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Julian, a soon to be full-time Web & App Developer. 👨🏼‍💻 My passion lies in solving problems so perhaps I can help you solve an open position?</div>  
+### <div align="center">I'm Julian, a full-time Web & App Developer. 👨🏼‍💻 My passion lies in solving problems so perhaps I can help you solve an open position?</div>  
   
 
 - 🔭 I’m currently working on a potential business idea in the AI area.   
