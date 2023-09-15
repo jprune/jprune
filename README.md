@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Julian, a full-time Web & App Developer. 👨🏼‍💻 My passion lies in solving problems so perhaps I can help you solve an open position?</div>  
+### <div align="center">I'm Julian, Team Leader in HighTech Sales and a part time software dev. 👨🏼‍💻 My passion lies in solving REAL problems, focussing 100% on the consumer. So perhaps I can help you solve an open position?</div>  
   
 
-- 🔭 I’m currently working on a potential business idea in the AI area.   
+- 🔭 I’m currently working on a side project on the KUJIRA Blockchain.   
   
 
-- 🌱 I’m currently learning extending my knowledge in TypeScript, NextJS and AWS.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌱 I’m currently learning extending my knowledge in Rust, TypeScript, NextJS and AWS.  
   
 
 - ⚡ Fun fact: I love to be under the water.  
