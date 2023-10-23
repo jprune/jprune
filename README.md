@@ -6,7 +6,7 @@
 ### <div align="center">I'm Julian, Team Leader in HighTech Sales and a part time software dev. 👨🏼‍💻 My passion lies in solving REAL problems, focussing 100% on the consumer. So perhaps I can help you solve an open position?</div>  
   
 
-- 🔭 I’m currently working on a side project on the KUJIRA Blockchain.   
+- 🔭 I’m currently working on a side project on the KUJIRA Blockchain called NAMIProtocol.   
   
 
 - 🌱 I’m currently learning extending my knowledge in Rust, TypeScript, NextJS and AWS.  
